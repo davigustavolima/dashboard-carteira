@@ -2,7 +2,7 @@
 
 Dashboard interativo em Python que permite montar uma carteira de ações e ETFs, comparar seu desempenho com o mercado (Ibovespa, S&P 500, Ouro, Dólar) e analisar risco e indicadores técnicos — tudo em tempo real, com dados do Yahoo Finance.
 
-🔗 **[Acesse o app aqui](#)** *(link do Streamlit Cloud após o deploy)*
+🔗 **Deploy:** ainda não publicado — por enquanto, rode localmente seguindo as instruções abaixo.
 
 ## ✨ Funcionalidades
 
